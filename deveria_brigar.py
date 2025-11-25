@@ -41,6 +41,7 @@ st.markdown("""
     }
     .resposta-box {
         background-color: #f0f2f6;
+        color: #000000 !important;
         padding: 20px;
         border-radius: 10px;
         text-align: center;
@@ -266,7 +267,7 @@ elif st.session_state.tela == 'final':
         <br><br>
         Você conseguiu -50 pontos respondendo todas as perguntas!
         <br><br>
-        Não importa o que você responda, sempre dá briga! 😂
+        Amo você meu amorrr <3
         </p>
     ''', unsafe_allow_html=True)
     
